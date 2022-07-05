@@ -15,9 +15,9 @@ Audio File: 06. Future Pulverized.mp3
 Video File: ?dummy:25.000000:8438:1920:940:47:163:254:
 Video AR Value: 2.042553
 Video Zoom Percent: 0.500000
-Scroll Position: 81
-Active Line: 97
-Video Position: 5794
+Scroll Position: 69
+Active Line: 78
+Video Position: 5845
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,23 +47,23 @@ Comment: 0,0:00:41.70,0:00:45.30,Default,,0,0,0,karaoke,{\k61}{\k23}ま{\k19}ば
 Dialogue: 0,0:00:41.70,0:00:45.30,translation,,0,0,0,,For even if it was just a blink of an eye
 Dialogue: 0,0:00:41.70,0:00:45.30,reading,,0,0,0,,{\k61}{\k23}ma{\k19}ba{\k21}ta{\k24}ki {\k21}ho{\k19}do {\k12}no {\k30}se{\k24}tsu{\k21}na {\k21}e {\k46}to{\k18}
 Comment: 0,0:00:45.38,0:00:48.57,Default,,0,0,0,karaoke,{\k29}{\k22}生|い{\k24}き{\k22}た{\k21}証|あ{\k12}#|か{\k29}#|し{\k22}を{\k22}残|の{\k11}#|こ{\k25}す{\k14}よ{\k15}う{\k38}に{\k13}
-Dialogue: 0,0:00:45.38,0:00:48.57,translation,,0,0,0,,I wanted to leave proof of my short life
+Dialogue: 0,0:00:45.38,0:00:48.57,translation,,0,0,0,,I want to leave a proof of living my short life
 Dialogue: 0,0:00:45.38,0:00:48.57,reading,,0,0,0,,{\k29}{\k22}i{\k24}ki{\k22}ta{\k21} a{\k12}ka{\k29}shi{\k22} o{\k22} no{\k11}ko{\k25}su{\k14} yo{\k15}u {\k38}ni{\k13}
 Comment: 0,0:00:48.60,0:00:53.88,Default,,0,0,0,karaoke,{\k8}{\k19}溺|お{\k59}#|ぼ{\k22}れ{\k70}て{\k115}　{\k29}涙|な{\k21}#|み{\k108}#|だ{\k77}
-Dialogue: 0,0:00:48.60,0:00:53.88,translation,,0,0,0,,But now I just drown in tears
+Dialogue: 0,0:00:48.60,0:00:53.88,translation,,0,0,0,,Before I drown in my tears
 Dialogue: 0,0:00:48.60,0:00:53.88,reading,,0,0,0,,{\k8}{\k19}o{\k59}bo{\k22}re{\k70}te{\k115}　{\k29}na{\k21}mi{\k108}da{\k77}
 Comment: 0,0:00:54.89,0:01:01.80,Default,,0,0,0,karaoke,{\k12}{\k20}こ{\k23}れ{\k86}が{\k228}　{\k26}誰|だ{\k59}#|れ{\k22}も{\k41}が{\k42}笑|わ{\k54}#|ら{\k37}う{\k41}
-Dialogue: 0,0:00:54.89,0:01:01.80,translation,,0,0,0,,Though this is future where everyone
+Dialogue: 0,0:00:54.89,0:01:01.80,translation,,0,0,0,,However, somehow I still believe
 Dialogue: 0,0:00:54.89,0:01:01.80,reading,,0,0,0,,{\k12}{\k20}ko{\k23}re{\k86} ga{\k228}　{\k26}da{\k59}re {\k22}mo {\k41}ga {\k42}wa{\k54}ra{\k37}u{\k41}
 Comment: 0,0:01:02.06,0:01:08.90,Default,,0,0,0,karaoke,{\k15}{\k5}未|み{\k15}来|ら{\k59}#|い{\k24}だ{\k96}と{\k272}　{\k29}信|し{\k24}#|ん{\k62}じ{\k78}て{\k5}
-Dialogue: 0,0:01:02.06,0:01:06.85,translation,,0,0,0,,will be happy
-Dialogue: 0,0:01:06.88,0:01:08.90,translation,,0,0,0,,I believe it
+Dialogue: 0,0:01:02.06,0:01:06.85,translation,,0,0,0,,as time goes on
+Dialogue: 0,0:01:06.88,0:01:08.90,translation,,0,0,0,,We'll be happy
 Dialogue: 0,0:01:02.06,0:01:08.90,reading,,0,0,0,,{\k15}{\k5}mi{\k15}ra{\k59}i {\k24}da{\k96} to{\k272}　{\k29}shi{\k24}n{\k62}ji{\k78}te{\k5}
 Comment: 0,0:01:09.10,0:01:15.89,Default,,0,0,0,karaoke,{\k19}{\k60}ああ{\k6}　{\k20}進|し{\k26}#|ん{\k21}化|か{\k10}に{\k56}戦|そ{\k16}#|よ{\k68}い{\k40}で{\k42}　{\k44}塵|ち{\k22}#|り{\k20}の{\k22}如|ご{\k20}#|と{\k43}き{\k22}終|お{\k41}#|わ{\k21}末|り{\k40}へ{\k0}
-Dialogue: 0,0:01:09.10,0:01:15.89,translation,,0,0,0,,Ah, confronting evolution,\NMeeting my destiny of being smashed to dust
+Dialogue: 0,0:01:09.10,0:01:15.89,translation,,0,0,0,,Ah, confronting evolution,\Nthe destiny of being smashed to dust
 Dialogue: 0,0:01:09.10,0:01:15.89,reading,,0,0,0,,{\k19}{\k60}aa{\k6}　{\k20}shi{\k26}n{\k21}ka{\k10} ni{\k56} so{\k16}yo{\k68}i{\k40}de{\k42}　{\k44}chi{\k22}ri{\k20} no{\k22} go{\k20}to{\k43}ki {\k22}o{\k41}wa{\k21}ri{\k40} e{\k0}
 Comment: 0,0:01:15.93,0:01:22.51,Default,,0,0,0,karaoke,{\k84}震|ふ{\k22}#|る{\k20}え{\k18}る{\k3}　{\k21}夜|よ{\k43}明|あ{\k22}け{\k26}に{\k16}　{\k20}生|う{\k22}ま{\k21}れ{\k36}出|う{\k48}づ{\k41}る{\k43}幻|ゆ{\k66}#|め{\k86}
-Dialogue: 0,0:01:15.93,0:01:22.51,translation,,0,0,0,,Trembling in front of the illusion born in dawn
+Dialogue: 0,0:01:15.93,0:01:22.51,translation,,0,0,0,,Trembling in front of the illusion that is born in dawn
 Dialogue: 0,0:01:15.93,0:01:22.51,reading,,0,0,0,,{\k84}fu{\k22}ru{\k20}e{\k18}ru{\k3}　{\k21}yo{\k43}a{\k22}ke{\k26} ni{\k16}　{\k20}u{\k22}ma{\k21}re{\k36}u{\k48}zu{\k41}ru{\k43} yu{\k66}me{\k86}
 Comment: 0,0:01:22.57,0:01:26.16,Default,,0,0,0,karaoke,{\k13}{\k42}ああ{\k41}　{\k19}透|と{\k23}#|う{\k22}明|め{\k22}#|い{\k42}な{\k19}現|い{\k64}実|ま{\k37}も{\k15}
 Dialogue: 0,0:01:22.57,0:01:26.16,translation,,0,0,0,,Ah, and the clear reality was
@@ -78,10 +78,10 @@ Comment: 0,0:01:49.78,0:01:52.96,Default,,0,0,0,karaoke,{\k13}{\k22}弾|は{\k24
 Dialogue: 0,0:01:49.78,0:01:52.96,translation,,0,0,0,,All of a sudden I feel like
 Dialogue: 0,0:01:49.78,0:01:52.96,reading,,0,0,0,,{\k13}{\k22}ha{\k24}ji{\k21}ke{\k19}to{\k22}n{\k22}da {\k18}a{\k24}wa{\k20} no{\k23} yo{\k21}u {\k29}ni{\k40}
 Comment: 0,0:01:53.06,0:01:56.18,Default,,0,0,0,karaoke,{\k21}{\k16}美|う{\k24}#|つ{\k10}#|く{\k31}し{\k16}く{\k6}{\k20}消|き{\k22}え{\k23}た{\k18}い{\k17}と{\k27}願|ね{\k7}#|が{\k22}う{\k32}
-Dialogue: 0,0:01:53.06,0:01:56.18,translation,,0,0,0,,I want to somehow cleanly disappear
+Dialogue: 0,0:01:53.06,0:01:56.18,translation,,0,0,0,,I am about to disappear at once
 Dialogue: 0,0:01:53.06,0:01:56.18,reading,,0,0,0,,{\k21}{\k16}u{\k24}tsu{\k10}ku{\k31}shi{\k16}ku {\k6}{\k20}ki{\k22}e{\k23}ta{\k18}i {\k17}to {\k27}ne{\k7}ga{\k22}u{\k32}
 Comment: 0,0:01:56.24,0:02:01.78,Default,,0,0,0,karaoke,{\k0}{\k26}ka{\k57}n{\k24}ka{\k67}ku{\k120}　{\k26}fu{\k19}re{\k65}te{\k150}
-Dialogue: 0,0:01:56.24,0:02:01.78,translation,,0,0,0,,Like a soap bubble to the wind
+Dialogue: 0,0:01:56.24,0:02:01.78,translation,,0,0,0,,Like a bubble to the wind
 Dialogue: 0,0:01:56.24,0:02:01.78,reading,,0,0,0,,{\k0}{\k26}ka{\k57}n{\k24}ka{\k67}ku{\k120}　{\k26}fu{\k19}re{\k65}te{\k150}
 Comment: 0,0:02:03.16,0:02:06.50,Default,,0,0,0,karaoke,{\k19}{\k32}し{\k22}が{\k17}み{\k24}つ{\k19}い{\k17}た{\k27}爪|つ{\k22}#|め{\k22}の{\k21}跡|あ{\k18}#|と{\k40}で{\k34}
 Comment: 0,0:02:06.56,0:02:09.60,Default,,0,0,0,karaoke,{\k29}{\k22}生|い{\k24}き{\k22}た{\k21}証|あ{\k12}#|か{\k29}#|し{\k22}を{\k22}残|の{\k11}#|こ{\k25}す{\k14}よ{\k15}う{\k38}に{\k13}
@@ -98,20 +98,20 @@ Comment: 0,0:03:31.02,0:03:37.26,Default,,0,0,0,karaoke,{\k84}震|ふ{\k22}#|る
 Comment: 0,0:03:37.90,0:03:41.50,Default,,0,0,0,karaoke,{\k13}{\k42}ああ{\k41}　{\k19}透|と{\k23}#|う{\k22}明|め{\k22}#|い{\k42}な{\k19}現|い{\k64}実|ま{\k37}も{\k15}
 Comment: 0,0:03:41.60,0:03:44.66,Default,,0,0,0,karaoke,{\k10}{\k42}ひ{\k20}び{\k23}割|わ{\k21}れ{\k9}て{\k54}　蜃|し{\k22}#|ん{\k44}気|き{\k20}楼|ろ{\k36}#|う{\k0}
 Comment: 0,0:03:44.72,0:03:51.74,Default,,0,0,0,karaoke,{\k1}{\k82}零|こ{\k22}#|ぼ{\k22}れ{\k21}た{\k22}希|き{\k41}望|ぼ{\k22}#|う{\k28}は{\k13}　{\k23}し{\k23}が{\k17}み{\k45}つ{\k41}い{\k42}た{\k42}虚|え{\k82}無|ご{\k82}
-Dialogue: 0,0:02:03.16,0:02:06.50,translation,,0,0,0,,With all the scratch marks that I've left
-Dialogue: 0,0:02:06.56,0:02:09.60,translation,,0,0,0,,I prove the short life I have lived
+Dialogue: 0,0:02:03.16,0:02:06.50,translation,,0,0,0,,With all the scratches and the marks that I have left
+Dialogue: 0,0:02:06.56,0:02:09.60,translation,,0,0,0,,I prove the short life that I have lived
 Dialogue: 0,0:02:09.66,0:02:15.18,translation,,0,0,0,,Before I burn in my tears
-Dialogue: 0,0:02:16.04,0:02:22.70,translation,,0,0,0,,But this is the ideal world
+Dialogue: 0,0:02:16.04,0:02:22.70,translation,,0,0,0,,For the sake of the ideal world
 Dialogue: 0,0:02:23.28,0:02:30.16,translation,,0,0,0,,Everyone would want; I believe it
-Dialogue: 0,0:02:30.26,0:02:36.94,translation,,0,0,0,,Ah, the barren flower of evolution\NFluttering it's leaves to the inevitable
-Dialogue: 0,0:02:36.95,0:02:43.70,translation,,0,0,0,,Truth be told, I am so terrified of the dawn
+Dialogue: 0,0:02:30.26,0:02:36.94,translation,,0,0,0,,Ah, evolution's barren flower\NFluttering it's leaves until the end
+Dialogue: 0,0:02:36.95,0:02:43.70,translation,,0,0,0,,Here I stand alone, so terrified to meet the dawn
 Dialogue: 0,0:02:43.78,0:02:47.32,translation,,0,0,0,,Ah, the beautiful reality
 Dialogue: 0,0:02:47.36,0:02:50.38,translation,,0,0,0,,Is nothing but a stained old mirage
 Dialogue: 0,0:02:50.42,0:02:57.52,translation,,0,0,0,,The silent hope I clinged onto is the void of my love
 Dialogue: 0,0:03:23.98,0:03:30.98,translation,,0,0,0,,Ah, the dream of evolution, taking you to an end without escape
 Dialogue: 0,0:03:31.02,0:03:37.26,translation,,0,0,0,,A trembling, screaming ghost is being born in dawn
-Dialogue: 0,0:03:37.90,0:03:41.50,translation,,0,0,0,,Ah, and the clear reality
-Dialogue: 0,0:03:41.60,0:03:44.66,translation,,0,0,0,,Is nothing but a smashed mirage
+Dialogue: 0,0:03:37.90,0:03:41.50,translation,,0,0,0,,Ah, and the clear reality is
+Dialogue: 0,0:03:41.60,0:03:44.66,translation,,0,0,0,,Nothing but a smashed glass mirage
 Dialogue: 0,0:03:44.72,0:03:51.74,translation,,0,0,0,,The final hope I clung onto is the void of my ego
 Dialogue: 0,0:02:03.16,0:02:06.50,reading,,0,0,0,,{\k19}{\k32}shi{\k22}ga{\k17}mi{\k24}tsu{\k19}i{\k17}ta {\k27}tsu{\k22}me {\k22}no {\k21}a{\k18}to {\k40}de{\k34}
 Dialogue: 0,0:02:06.56,0:02:09.60,reading,,0,0,0,,{\k29}{\k22}i{\k24}ki{\k22}ta{\k21} a{\k12}ka{\k29}shi {\k22}o {\k22}no{\k11}ko{\k25}su {\k14}yo{\k15}u {\k38}ni{\k13}
@@ -128,7 +128,7 @@ Dialogue: 0,0:03:31.02,0:03:37.26,reading,,0,0,0,,{\k84}fu{\k22}ru{\k20}e{\k18}t
 Dialogue: 0,0:03:37.90,0:03:41.50,reading,,0,0,0,,{\k13}{\k42}aa{\k41}　{\k19}to{\k23}o{\k22}me{\k22}i {\k42}na {\k19}i{\k64}ma {\k37}mo{\k15}
 Dialogue: 0,0:03:41.60,0:03:44.66,reading,,0,0,0,,{\k10}{\k42}hi{\k20}bi{\k23}wa{\k21}re{\k9}te{\k54}　shi{\k22}n{\k44}ki{\k20}ro{\k36}u{\k0}
 Dialogue: 0,0:03:44.72,0:03:51.74,reading,,0,0,0,,{\k1}{\k82}ko{\k22}bo{\k22}re{\k21}ta{\k22} ki{\k41}bo{\k22}u{\k28} wa{\k13}　{\k23}shi{\k23}ga{\k17}mi{\k45}tsu{\k41}i{\k42}ta{\k42} e{\k82}go{\k82}
-Dialogue: 0,0:03:51.74,0:04:01.50,Credits,,0,0,0,,ZYTOKINE — FUTURE PULVERIZED\N作曲・作詞：　隣人 / Music & Lyrics by: Linjin\N翻訳 / Translated by: akasaka
+Dialogue: 0,0:03:51.74,0:04:01.50,Credits,,0,0,0,,ZYTOKINE — FUTURE PULVERIZED\N作曲・作詞：　隣人 / Music & Lyrics by: Linjin\N翻訳 / (Loosely) Translated by: akasaka
 Dialogue: 0,0:00:28.76,0:00:31.95,Default,,0,0,0,fx,{\r\k5\alpha&H77}{\r\k43\alpha&H77}砕{\r\k19\alpha&H77}け{\r\k23\alpha&H77}散{\r\k36\alpha&H77}って{\r\k6\alpha&H77}{\r\k20\alpha&H77}な{\r\k17\alpha&H77}お{\r\k3\alpha&H77}　{\r\k65\alpha&H77}輝{\r\k82\alpha&H77}く
 Dialogue: 0,0:00:28.76,0:00:31.95,Default,,0,0,0,fx,{\r\k0\t(0,0,\c&HFFD608&\blur5\fax-0.3)\t(0,50,\alpha&HFF\fax0.3)\move(622, 920, 632, 870, 0, 75)}
 Dialogue: 0,0:00:28.76,0:00:31.95,Default,,0,0,0,fx,{\r\k5\t(0,25,\c&HFFD608&\blur5\fax-0.3)\t(25,100,\alpha&HFF\fax0.3)\move(622, 920, 632, 870, 25, 125)}
