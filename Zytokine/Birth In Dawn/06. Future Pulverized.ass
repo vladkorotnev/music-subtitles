@@ -15,9 +15,9 @@ Audio File: 06. Future Pulverized.mp3
 Video File: ?dummy:25.000000:8438:1920:940:47:163:254:
 Video AR Value: 2.042553
 Video Zoom Percent: 0.500000
-Scroll Position: 69
-Active Line: 78
-Video Position: 5845
+Scroll Position: 87
+Active Line: 97
+Video Position: 5794
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +128,7 @@ Dialogue: 0,0:03:31.02,0:03:37.26,reading,,0,0,0,,{\k84}fu{\k22}ru{\k20}e{\k18}t
 Dialogue: 0,0:03:37.90,0:03:41.50,reading,,0,0,0,,{\k13}{\k42}aa{\k41}　{\k19}to{\k23}o{\k22}me{\k22}i {\k42}na {\k19}i{\k64}ma {\k37}mo{\k15}
 Dialogue: 0,0:03:41.60,0:03:44.66,reading,,0,0,0,,{\k10}{\k42}hi{\k20}bi{\k23}wa{\k21}re{\k9}te{\k54}　shi{\k22}n{\k44}ki{\k20}ro{\k36}u{\k0}
 Dialogue: 0,0:03:44.72,0:03:51.74,reading,,0,0,0,,{\k1}{\k82}ko{\k22}bo{\k22}re{\k21}ta{\k22} ki{\k41}bo{\k22}u{\k28} wa{\k13}　{\k23}shi{\k23}ga{\k17}mi{\k45}tsu{\k41}i{\k42}ta{\k42} e{\k82}go{\k82}
-Dialogue: 0,0:03:51.74,0:04:01.50,Credits,,0,0,0,,ZYTOKINE — FUTURE PULVERIZED\N作曲・作詞：　隣人 / Music & Lyrics by: Linjin\N翻訳 / (Loosely) Translated by: akasaka
+Comment: 0,0:03:51.74,0:04:01.50,Credits,,0,0,0,,ZYTOKINE — FUTURE PULVERIZED\N作曲・作詞：　隣人 / Music & Lyrics by: Linjin\N翻訳 / (Loosely) Translated by: akasaka
 Dialogue: 0,0:00:28.76,0:00:31.95,Default,,0,0,0,fx,{\r\k5\alpha&H77}{\r\k43\alpha&H77}砕{\r\k19\alpha&H77}け{\r\k23\alpha&H77}散{\r\k36\alpha&H77}って{\r\k6\alpha&H77}{\r\k20\alpha&H77}な{\r\k17\alpha&H77}お{\r\k3\alpha&H77}　{\r\k65\alpha&H77}輝{\r\k82\alpha&H77}く
 Dialogue: 0,0:00:28.76,0:00:31.95,Default,,0,0,0,fx,{\r\k0\t(0,0,\c&HFFD608&\blur5\fax-0.3)\t(0,50,\alpha&HFF\fax0.3)\move(622, 920, 632, 870, 0, 75)}
 Dialogue: 0,0:00:28.76,0:00:31.95,Default,,0,0,0,fx,{\r\k5\t(0,25,\c&HFFD608&\blur5\fax-0.3)\t(25,100,\alpha&HFF\fax0.3)\move(622, 920, 632, 870, 25, 125)}

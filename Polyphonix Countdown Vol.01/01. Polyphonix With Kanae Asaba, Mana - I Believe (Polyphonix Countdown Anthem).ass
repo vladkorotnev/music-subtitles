@@ -8,9 +8,9 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Audio File: D:/Music/sets for djing new/_Uns_Alb/Polyphonix Countdown Vol.01/01. Polyphonix With Kanae Asaba, Mana - I Believe (Polyphonix Countdown Anthem).mp3
-Scroll Position: 87
-Active Line: 116
+Audio File: 01. Polyphonix With Kanae Asaba, Mana - I Believe (Polyphonix Countdown Anthem).mp3
+Scroll Position: 15
+Active Line: 18
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,16 +22,16 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:16.13,0:00:16.75,VFD,,0,0,0,Reset,1,1,1
 Comment: 0,0:00:16.75,0:00:18.88,VFD,,0,0,0,Typing,Promises...
 Comment: 0,0:00:18.88,0:00:19.20,VFD,,0,0,0,Cursor,1,2,1
-Comment: 0,0:00:19.20,0:00:20.26,VFD,,0,0,0,Typing,So full of 
-Comment: 0,0:00:20.58,0:00:21.41,VFD,,0,0,0,Typing,promises
+Comment: 0,0:00:19.20,0:00:20.26,VFD,,0,0,0,Typing,So full of
+Comment: 0,0:00:20.58,0:00:21.41,VFD,,0,0,0,Typing, promises
 Comment: 0,0:00:23.85,0:00:24.06,VFD,,0,0,0,Reset,1,1,1
-Comment: 0,0:00:24.26,0:00:24.85,VFD,,0,0,0,Typing,Promises 
-Comment: 0,0:00:25.99,0:00:26.52,VFD,,0,0,0,Typing,just left
-Comment: 0,0:00:26.52,0:00:26.76,VFD,,0,0,0,Cursor,11,2,1
+Comment: 0,0:00:24.26,0:00:24.85,VFD,,0,0,0,Typing,Promises
+Comment: 0,0:00:25.99,0:00:26.52,VFD,,0,0,0,Typing, just left
+Comment: 0,0:00:26.52,0:00:26.76,VFD,,0,0,0,Cursor,10,2,1
 Comment: 0,0:00:26.76,0:00:27.50,VFD,,0,0,0,Typing,behind...
 Comment: 0,0:00:30.20,0:00:30.66,VFD,,0,0,0,Reset,1,1,1
-Comment: 0,0:00:30.66,0:00:30.92,VFD,,0,0,0,Typing,Oh, 
-Comment: 0,0:00:31.27,0:00:31.68,VFD,,0,0,0,Typing,all the
+Comment: 0,0:00:30.66,0:00:30.92,VFD,,0,0,0,Typing,Oh,
+Comment: 0,0:00:31.27,0:00:31.68,VFD,,0,0,0,Typing, all the
 Comment: 0,0:00:31.68,0:00:31.90,VFD,,0,0,0,Cursor,12,2,1
 Comment: 0,0:00:31.90,0:00:32.37,VFD,,0,0,0,Typing,promises
 Comment: 0,0:00:32.37,0:00:34.30,VFD,,0,0,0,Cursor,1,1,1
@@ -39,7 +39,7 @@ Comment: 0,0:00:34.30,0:00:34.96,VFD,,0,0,0,Typing,So many
 Comment: 0,0:00:39.30,0:00:39.33,VFD,,0,0,0,Reset,1,1,1
 Comment: 0,0:00:39.33,0:00:39.86,VFD,,0,0,0,Typing,Promises,
 Comment: 0,0:00:40.77,0:00:40.87,VFD,,0,0,0,Cursor,4,2,1
-Comment: 0,0:00:40.87,0:00:41.87,VFD,,0,0,0,Typing,so simplified...
+Comment: 0,0:00:40.87,0:00:41.87,VFD,,0,0,0,Typing, so simplified...
 Comment: 0,0:00:44.54,0:00:46.88,VFD,,0,0,0,WipeUp,
 Comment: 0,0:00:46.88,0:00:46.90,VFD,,0,0,0,Reset,1,1,1
 Comment: 0,0:00:46.90,0:00:47.20,VFD,,0,0,0,Typing,I
@@ -76,8 +76,8 @@ Comment: 0,0:02:13.01,0:02:13.52,VFD,,0,0,0,Typing,Answers
 Comment: 0,0:02:14.74,0:02:15.21,VFD,,0,0,0,Typing, the doubts
 Comment: 0,0:02:15.38,0:02:15.49,VFD,,0,0,0,Cursor,14,2,1
 Comment: 0,0:02:15.54,0:02:15.95,VFD,,0,0,0,Typing,I hide
-Comment: 0,0:02:16.89,0:02:17.02,VFD,,0,0,0,Cursor,16,2,1
-Comment: 0,0:02:17.04,0:02:17.49,VFD,,0,0,0,Typing,####
+Comment: 0,0:02:16.89,0:02:17.02,VFD,,0,0,0,Cursor,13,1,1
+Comment: 0,0:02:17.04,0:02:17.49,VFD,,0,0,0,Typing,######
 Comment: 0,0:02:19.08,0:02:19.27,VFD,,0,0,0,Reset,1,1,1
 Comment: 0,0:02:19.43,0:02:20.00,VFD,,0,0,0,Typing,Where are the
 Comment: 0,0:02:20.07,0:02:20.16,VFD,,0,0,0,Cursor,13,2,1
