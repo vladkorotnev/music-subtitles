@@ -11,12 +11,13 @@ PlayResY: 940
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../../../Music/sets for djing new/Trance/Amateras/î╢Å█Crisis (Extended Mix) - Kirin feat.é╤é╤éáé±.wav
 Video File: ?dummy:25.000000:8438:1920:940:47:163:254:
 Video AR Value: 2.042553
 Video Zoom Percent: 0.500000
-Scroll Position: 30
-Active Line: 43
-Video Position: 2230
+Scroll Position: 18
+Active Line: 28
+Video Position: 2688
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,11 +60,11 @@ Comment: 0,0:04:08.37,0:04:17.04,Default,,0,0,0,karaoke,{\k23}{\k23}今|い{\k13
 Dialogue: 0,0:01:29.20,0:01:33.03,translation,,0,0,0,,In this falling down inceptive dream
 Dialogue: 0,0:01:33.03,0:01:36.65,translation,,0,0,0,,Whose dream is it? The dream I won't ever see
 Dialogue: 0,0:01:36.65,0:01:40.26,translation,,0,0,0,,Where am I now? And where is it gone?
-Dialogue: 0,0:01:40.26,0:01:43.79,translation,,0,0,0,,This place that you see only once in your life
-Dialogue: 0,0:01:43.79,0:01:47.52,translation,,0,0,0,,In the cruel world full of lies and despair
-Dialogue: 0,0:01:47.52,0:01:50.97,translation,,0,0,0,,I have arrived this time
+Dialogue: 0,0:01:40.26,0:01:43.79,translation,,0,0,0,,This place you can see only once in your life
+Dialogue: 0,0:01:43.79,0:01:47.52,translation,,0,0,0,,Now suddenly I ended up in this space
+Dialogue: 0,0:01:47.52,0:01:50.97,translation,,0,0,0,,In this cruel world full of lies and despair
 Dialogue: 0,0:01:50.97,0:01:54.58,translation,,0,0,0,,The hourglass froze precipitously
-Dialogue: 0,0:01:54.58,0:02:00.19,translation,,0,0,0,,Stopping the time with that pointless bruise
+Dialogue: 0,0:01:54.58,0:02:00.19,translation,,0,0,0,,Stopping the time, leaving that pointless bruise
 Dialogue: 0,0:02:11.92,0:02:14.49,translation,,0,0,0,,Let me say it
 Dialogue: 0,0:02:15.45,0:02:22.58,translation,,0,0,0,,I want you to lock me out with
 Dialogue: 0,0:02:22.58,0:02:27.25,translation,,0,0,0,,the magic of your spell
@@ -71,7 +72,7 @@ Dialogue: 0,0:02:27.25,0:02:29.25,translation,,0,0,0,,Now
 Dialogue: 0,0:02:29.97,0:02:37.02,translation,,0,0,0,,The bittersweet illusion starts breaking down
 Dialogue: 0,0:02:37.10,0:02:44.00,translation,,0,0,0,,For I am not afraid anymore
 Dialogue: 0,0:03:42.91,0:03:46.12,translation,,0,0,0,,I get it all
-Dialogue: 0,0:03:46.12,0:03:53.46,translation,,0,0,0,,Even who you were now I understand
+Dialogue: 0,0:03:46.12,0:03:53.46,translation,,0,0,0,,Even who you were, now I understand
 Dialogue: 0,0:03:53.46,0:03:58.00,translation,,0,0,0,,Now I fathom it all
 Dialogue: 0,0:03:58.00,0:04:00.21,translation,,0,0,0,,And
 Dialogue: 0,0:04:01.12,0:04:07.93,translation,,0,0,0,,To destroy this outlandish illusion I will
@@ -223,7 +224,7 @@ Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k28\t(0,140,\c&HFFD608&\
 Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k75\t(280,655,\c&HFFD608&\blur5\fax-0.3)\t(655,1080,\alpha&HFF\fax0.3)\move(711, 920, 721, 870, 655, 1105)}砂
 Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k23\t(1030,1145,\c&HFFD608&\blur5\fax-0.3)\t(1145,1310,\alpha&HFF\fax0.3)\move(779, 920, 789, 870, 1145, 1335)}時
 Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k63\t(1260,1575,\c&HFFD608&\blur5\fax-0.3)\t(1575,1940,\alpha&HFF\fax0.3)\move(847, 920, 857, 870, 1575, 1965)}計
-Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k6\t(1890,1920,\c&HFFD608&\blur5\fax-0.3)\t(1920,2000,\alpha&HFF\fax0.3)\move(904, 920, 914, 870, 1920, 2025)} 
+Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k6\t(1890,1920,\c&HFFD608&\blur5\fax-0.3)\t(1920,2000,\alpha&HFF\fax0.3)\move(904, 920, 914, 870, 1920, 2025)}
 Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k69\t(1950,2295,\c&HFFD608&\blur5\fax-0.3)\t(2295,2690,\alpha&HFF\fax0.3)\move(938, 920, 948, 870, 2295, 2715)}時
 Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k20\t(2640,2740,\c&HFFD608&\blur5\fax-0.3)\t(2740,2890,\alpha&HFF\fax0.3)\move(1006, 920, 1016, 870, 2740, 2915)}を
 Dialogue: 0,0:01:50.97,0:01:54.58,Default,,0,0,0,fx,{\r\k25\t(2840,2965,\c&HFFD608&\blur5\fax-0.3)\t(2965,3140,\alpha&HFF\fax0.3)\move(1073, 920, 1083, 870, 2965, 3165)}止
